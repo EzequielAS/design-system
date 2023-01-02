@@ -1,7 +1,7 @@
 # @woxye-ignite-ui/ts-config
 
-## 1.0.1
+## 2.0.0
 
-### Patch Changes
+### Major Changes
 
-- Imports updates
+- Add tooltip and toast components
