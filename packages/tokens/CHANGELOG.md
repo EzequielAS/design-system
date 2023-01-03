@@ -1,5 +1,12 @@
 # @woxye-ignite-ui/tokens
 
+## 3.1.0
+
+### Minor Changes
+
+- Add new test color
+- 926e8a7: Token color removed
+
 ## 3.0.0
 
 ### Major Changes
