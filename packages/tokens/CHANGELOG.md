@@ -1,5 +1,11 @@
 # @woxye-ignite-ui/tokens
 
+## 3.2.0
+
+### Minor Changes
+
+- removed color test from tokens
+
 ## 3.1.0
 
 ### Minor Changes
