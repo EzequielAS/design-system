@@ -1,0 +1,2 @@
+import{A as t}from"./index.87ac6187.js";import"./index.b50ff8d2.js";import"./iframe.b9c0caa8.js";import"./index.e9033c95.js";import"./jsx-runtime.c90db28d.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/37677439?v=4",alt:"Ezequiel Alves"},argTypes:{src:{control:{type:"text"}}}},c={},p={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,p as WithFallback,l as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.757531fa.js.map
