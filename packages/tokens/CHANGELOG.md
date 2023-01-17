@@ -1,5 +1,11 @@
 # @woxye-ignite-ui/tokens
 
+## 1.1.0
+
+### Minor Changes
+
+- color change
+
 ## 2.3.0
 
 ### Minor Changes
